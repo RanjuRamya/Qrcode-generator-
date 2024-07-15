@@ -1,1 +1,1 @@
-Simple qrcode geenrator using python tkinter
+Simple qrcode genarator using python tkinter
